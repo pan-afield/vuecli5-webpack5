@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="174px" height="118px" viewBox="0 0 174 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.384,30.769 C23.88,30.769 30.768,23.881 30.768,15.385 C30.768,6.888 23.88,1.0658141e-13 15.384,1.0658141e-13 C6.887,1.0658141e-13 1.42108547e-14,6.888 1.42108547e-14,15.385 C1.42108547e-14,23.881 6.887,30.769 15.384,30.769 Z" id="path-1"></path>
+        <filter x="-22.8%" y="-16.3%" width="145.5%" height="145.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Flow-1----Sign-Up-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Email-Only-Registration-02" transform="translate(-639.000000, -222.000000)">
+            <g id="Group-11" transform="translate(-65.000000, 0.000000)">
+                <g id="Envelope" transform="translate(696.000000, 224.000000)">
+                    <g>
+                        <g id="Envelope-Closed" transform="translate(0.000000, 11.000000)">
+                            <path d="M12,105 L161.5,105 C163.709139,105 165.5,103.209139 165.5,101 L165.5,4 C165.5,1.790861 163.709139,-4.05812251e-16 161.5,0 L12,0 C9.790861,4.05812251e-16 8,1.790861 8,4 L8,101 C8,103.209139 9.790861,105 12,105 Z" id="Fill-4" fill="#CCE2F5"></path>
+                            <path d="M160.970937,105 L13.0290633,105 C10.8199243,105 9.02906334,103.209139 9.02906334,101 C9.02906334,99.7051031 9.65589914,98.4903145 10.7112463,97.7399809 L87,43.5 L87,43.5 L163.288754,97.7399809 C165.089212,99.0200759 165.511051,101.517358 164.230956,103.317817 C163.480622,104.373164 162.265834,105 160.970937,105 Z" id="Fill-5" fill="#B8D7F0"></path>
+                            <path d="M14.3635645,0 L159.636436,0 C161.845575,1.52910644e-14 163.636436,1.790861 163.636436,4 C163.636436,5.21208626 163.086832,6.35879569 162.142,7.11803574 L89.5055644,65.4866 C88.0421571,66.6625524 85.9578429,66.6625524 84.4944356,65.4866 L11.858,7.11803574 C10.1359564,5.73425071 9.8617437,3.21647915 11.2455287,1.49443557 C12.0047688,0.549603501 13.1514782,-2.44187863e-15 14.3635645,0 Z" id="Fill-6" fill="#99C5EB"></path>
+                            <path d="M14.3522239,0 L159.647776,0 C161.856915,-1.61026889e-14 163.647776,1.790861 163.647776,4 C163.647776,5.2832054 163.032144,6.48850753 161.992522,7.24070502 L89.3447454,59.8035077 C87.9455026,60.815901 86.0544974,60.815901 84.6552546,59.8035077 L12.0074785,7.24070502 C10.2176865,5.94573789 9.81655173,3.44504656 11.1115189,1.6552546 C11.8637164,0.615632055 13.0690185,5.56479153e-15 14.3522239,0 Z" id="Fill-7" fill="#B8D7F0"></path>
+                        </g>
+                        <g id="Notification" transform="translate(147.000000, 0.000000)">
+                            <g id="Fill-13">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#E15C52" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <polyline id="Fill-14" fill="#FFFFFF" points="15.364 22.437 15.364 11.24 12.305 13.103 11.521 11.829 15.58 9.318 17.168 9.318 17.168 22.437 15.364 22.437"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

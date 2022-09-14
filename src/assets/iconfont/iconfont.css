@@ -1,0 +1,290 @@
+@font-face {
+    font-family: "iconfont";
+    src: url('iconfont.eot?t=e6d35e079ddcf449d7e7a384a37345b9'); /* IE9 */
+    src:
+        url('iconfont.eot?t=e6d35e079ddcf449d7e7a384a37345b9#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('iconfont.woff?t=e6d35e079ddcf449d7e7a384a37345b9') format('woff2'),
+        url('iconfont.woff?t=e6d35e079ddcf449d7e7a384a37345b9') format('woff'), /* chrome、firefox */
+        url('iconfont.ttf?t=e6d35e079ddcf449d7e7a384a37345b9') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+        url('iconfont.svg?t=e6d35e079ddcf449d7e7a384a37345b9#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="icon_"],
+[class*=" icon_"] {
+    font-family: "iconfont" !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+}
+
+.icon_notification::before {
+    content: "\e001";
+}
+
+.icon_arrow::before {
+    content: "\e002";
+}
+
+.icon_fire::before {
+    content: "\e003";
+}
+
+.icon_copy::before {
+    content: "\e004";
+}
+
+.icon_favorite::before {
+    content: "\e005";
+}
+
+.icon_comment::before {
+    content: "\e006";
+}
+
+.icon_eye::before {
+    content: "\e007";
+}
+
+.icon_subtract_hov::before {
+    content: "\e008";
+}
+
+.icon_subtract_nor::before {
+    content: "\e009";
+}
+
+.icon_add_hov::before {
+    content: "\e00a";
+}
+
+.icon_add_nor::before {
+    content: "\e00b";
+}
+
+.icon_arrow_up::before {
+    content: "\e00c";
+}
+
+.icon_arrow_down::before {
+    content: "\e00d";
+}
+
+.icon_search::before {
+    content: "\e00e";
+}
+
+.icon_view::before {
+    content: "\e00f";
+}
+
+.icon_coupond::before {
+    content: "\e010";
+}
+
+.icon_copylink::before {
+    content: "\e011";
+}
+
+.icon_facebook::before {
+    content: "\e012";
+}
+
+.icon_twitter::before {
+    content: "\e013";
+}
+
+.icon_CrazyDeals_icon_headPortrait_default::before {
+    content: "\e014";
+}
+
+.icon_next_left::before {
+    content: "\e015";
+}
+
+.icon_next_right::before {
+    content: "\e016";
+}
+
+.icon_money::before {
+    content: "\e017";
+}
+
+.icon_show::before {
+    content: "\e018";
+}
+
+.icon_hide::before {
+    content: "\e019";
+}
+
+.icon_date::before {
+    content: "\e01a";
+}
+
+.icon_camera::before {
+    content: "\e01b";
+}
+
+.icon_bottom::before {
+    content: "\e01c";
+}
+
+.icon_top::before {
+    content: "\e01d";
+}
+
+.icon_Updeals_menu::before {
+    content: "\e01e";
+}
+
+.icon_Updeals_mobiel_search::before {
+    content: "\e01f";
+}
+
+.icon_mobeil_notification::before {
+    content: "\e020";
+}
+
+.icon_updealslogo_mobile::before {
+    content: "\e022";
+}
+
+.icon_updealslogo_login::before {
+    content: "\e023";
+}
+
+.icon_updealslogo_sidebar::before {
+    content: "\e024";
+}
+
+.icon_nomal_label::before {
+    content: "\e025";
+}
+
+.icon_label_2::before {
+    content: "\e026";
+}
+
+.icon_label_1::before {
+    content: "\e027";
+}
+
+.icon_label_3::before {
+    content: "\e028";
+}
+
+.icon_mobile_search_titleicon::before {
+    content: "\e02a";
+}
+
+.icon_updealslogo_pc::before {
+    content: "\e02b";
+}
+
+.icon_mobile_input_close::before {
+    content: "\e02c";
+}
+
+.icon_mobile_sidebar_arrow::before {
+    content: "\e02d";
+}
+
+.icon_mobile_check::before {
+    content: "\e02e";
+}
+
+.icon_default_avatar::before {
+    content: "\e02f";
+}
+
+.icon_favourite::before {
+    content: "\e030";
+}
+
+.icon_coupons::before {
+    content: "\e031";
+}
+
+.icon_activities::before {
+    content: "\e032";
+}
+
+.icon_profile::before {
+    content: "\e033";
+}
+
+.icon_favourite_2::before {
+    content: "\e038";
+}
+
+.icon_coupons_1::before {
+    content: "\e039";
+}
+
+.icon_activities_1::before {
+    content: "\e03a";
+}
+
+.icon_profile_1::before {
+    content: "\e03b";
+}
+
+.icon_number_bg::before {
+    content: "\e03c";
+}
+
+.icon_footer_twitter::before {
+    content: "\e03d";
+}
+
+.icon_footer_facebook::before {
+    content: "\e03e";
+}
+
+.icon_footer_ins::before {
+    content: "\e03f";
+}
+
+.icon_funny::before {
+    content: "\e040";
+}
+
+.icon_like::before {
+    content: "\e041";
+}
+
+.icon_dislike::before {
+    content: "\e042";
+}
+
+.icon_helpful::before {
+    content: "\e043";
+}
+
+.icon_filter::before {
+    content: "\e044";
+}
+
+.icon_footer_telegram::before {
+    content: "\e045";
+}
+
+.icon_logo_facebook::before {
+    content: "\e046";
+}
+
+.icon_logo_google::before {
+    content: "\e047";
+}
+
+.icon_pinlun::before {
+    content: "\e048";
+}
+
+.icon_shoucang::before {
+    content: "\e049";
+}
+
+.icon_img_help::before {
+    content: "\e04a";
+}
